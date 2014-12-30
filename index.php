@@ -1,5 +1,5 @@
 <?php
 
-echo "hali2";
+echo "hali3";
 
 ?>
